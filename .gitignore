@@ -1,0 +1,9 @@
+
+# compiled output
+/ApiBodas/ClientApp/dist
+/ApiBodas/ClientApp/tmp
+
+#dependencies
+/ApiBodas/ClientApp/nod_modules
+
+# IDE's 
